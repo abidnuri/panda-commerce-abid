@@ -1,0 +1,33 @@
+.custom-margin{
+    padding-top: 3.5em;
+}
+#slider{
+    background-color: #fceae8;
+    border-radius: 1em;
+}
+.slider-item{
+    padding: 20px 40px;
+}
+.buy-button{
+    background-image: linear-gradient(#ee6043, #ff2a00);
+    color: #fff;
+}
+.buy-button:focus{
+    box-shadow: none;
+    outline: none;
+}
+.custom-card, .custom-card-footer{
+    border: 0;
+}
+.custom-card-footer{
+    background-color: #fff;
+}
+.category-body img{
+    height: 80px;
+}
+#subscribe{
+    height: 320px;
+}
+.bg-sub{
+    background-color: lightslategray;
+}
